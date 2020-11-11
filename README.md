@@ -17,12 +17,7 @@ Talk to me about
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
 
-## About me
-- I'm a Sotfware Engineer
-- I Love ❤️ programming
-- 📫 How to reach me: minal.vaity95@gmail.com
-
-## Hello World!! 🤔
+## About me 🤔
 - I Love ❤️ programming
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: minal.vaity95@gmail.com
