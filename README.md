@@ -1,10 +1,10 @@
-### Hi, I'm Minal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h2> Hi, I'm Minal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h2>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 [![Twitter Badge](https://img.shields.io/badge/-@VaityMinal-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/VaityMinal)](https://twitter.com/VaityMinal) 
 [![Linkedin Badge](https://img.shields.io/badge/-minalvaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minalvaity/)](https://www.linkedin.com/in/minalvaity/) 
-[![Medium Badge](https://img.shields.io/badge/-@minal-vaity95-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://minal-vaity95.medium.com/)](https://minal-vaity95.medium.com/)
+[![Medium Badge](https://img.shields.io/badge/-@minal-vaity95-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@minal-vaity95/)](https://medium.com/@minal-vaity95/)
 [![Gmail Badge](https://img.shields.io/badge/-minal.vaity95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minal.vaity95@gmail.com)](mailto:minal.vaity95@gmail.com)
 
 I'm Minal Vaity from India, currently living in Chicago. I'm a second year graduate student studying master's degree in Information Technology and Management at Illinois Institute of Technology.
