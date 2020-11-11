@@ -21,13 +21,12 @@ Talk to me about
 - I'm a Sotfware Engineer
 - I Love ❤️ programming
 - 📫 How to reach me: minal.vaity95@gmail.com
-- ⚡ Fun fact: I have a youtube channel 
 
 ## Hello World!! 🤔
 - I Love ❤️ programming
 - 💬 Ask me about anything and everything.
 - 📫 How to reach me: minal.vaity95@gmail.com
-- 📫 Read my blogs: [Harsh Blog](https://minal-vaity95.medium.com/)
+- 📫 Read my blogs: [Minal's Blog](https://minal-vaity95.medium.com/)
 - 🎯 Portfolio site: [Portfolio](https://minu27.github.io)
 - 🔔 Subscribe:- [Minal Vaity](https://www.youtube.com/channel/UCFGrLAQ8xazQ80tibrCE6kg)
 - ⚡ Fun fact: Internet users blink less than usual.
