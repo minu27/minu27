@@ -26,7 +26,7 @@ Talk to me about
 - 🔔 Subscribe:- [Minal Vaity](https://www.youtube.com/channel/UCFGrLAQ8xazQ80tibrCE6kg)
 - ⚡ Fun fact: People read faster or slower depending what they read from.
 
-📝 ## Blog posts:
+## 📝 Blog posts:
 
 1. [GitHub new feature to add README on your Profile](https://minal-vaity95.medium.com/github-new-feature-to-add-readme-on-your-profile-567b0c532ebb)
 2. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
