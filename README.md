@@ -24,12 +24,13 @@ Talk to me about
 - 📫 Read my blogs: [Minal's Blog](https://minal-vaity95.medium.com/)
 - 🎯 Portfolio site: [Portfolio](https://minu27.github.io)
 - 🔔 Subscribe:- [Minal Vaity](https://www.youtube.com/channel/UCFGrLAQ8xazQ80tibrCE6kg)
-- ⚡ Fun fact: Internet users blink less than usual.
+- ⚡ Fun fact: People read faster or slower depending what they read from.
 
 📝 Blog posts:
 
-1. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
-2. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
+1. [GitHub new feature to add README on your Profile](https://minal-vaity95.medium.com/github-new-feature-to-add-readme-on-your-profile-567b0c532ebb)
+2. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
+3. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
 
 
 
