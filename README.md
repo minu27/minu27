@@ -28,9 +28,10 @@ Talk to me about
 
 ## 📝 Blog posts:
 
-1. [GitHub new feature to add README on your Profile](https://minal-vaity95.medium.com/github-new-feature-to-add-readme-on-your-profile-567b0c532ebb)
-2. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
-3. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
+1. [What’s the point of promises?](https://minal-vaity95.medium.com/whats-the-point-of-promises-a4184e169e01)
+2. [GitHub new feature to add README on your Profile](https://minal-vaity95.medium.com/github-new-feature-to-add-readme-on-your-profile-567b0c532ebb)
+3. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
+4. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
 
 
 
