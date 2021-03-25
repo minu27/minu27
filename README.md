@@ -32,6 +32,7 @@ Talk to me about
 2. [GitHub new feature to add README on your Profile](https://minal-vaity95.medium.com/github-new-feature-to-add-readme-on-your-profile-567b0c532ebb)
 3. [Git — The most used technology by developers](https://minal-vaity95.medium.com/git-the-most-used-technology-by-developers-b30d7497bf24)
 4. [LeetCode Top Interview Questions — Easy Collection (Arrays)](https://minal-vaity95.medium.com/leetcode-top-interview-questions-easy-collection-arrays-9593b00e61c3)
+5. [Cool JavaScript Tricks you might not know](https://minal-vaity95.medium.com/cool-javascript-tricks-you-might-not-know-7361c2992d7d) 
 
 
 
