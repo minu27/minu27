@@ -6,7 +6,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-minalvaity-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/minalvaity/)](https://www.linkedin.com/in/minalvaity/) 
 [![Gmail Badge](https://img.shields.io/badge/-minal.vaity95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minal.vaity95@gmail.com)](mailto:minal.vaity95@gmail.com)
 
-I'm Minal Vaity from India, currently living in Chicago. I'm a second year graduate student studying master's degree in Information Technology and Management at Illinois Institute of Technology.
+I'm Minal Vaity from India, currently living in Chicago. I'm a graduate with a master's degree in Information Technology and Management at Illinois Institute of Technology.
+Currently working as a Risk Analysis Specialist at Bank Of America
 
 ## ⚡ Technologies
 Talk to me about
@@ -19,7 +20,6 @@ Talk to me about
 
 ## About me 🤔
 - I Love ❤️ programming
-- 💬 Ask me about anything and everything.
 - 📫 How to reach me: minal.vaity95@gmail.com
 - 📫 Read my blogs: [Minal's Blog](https://minal-vaity95.medium.com/)
 - 🎯 Portfolio site: [Portfolio](https://minu27.github.io)
