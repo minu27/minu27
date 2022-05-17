@@ -11,9 +11,9 @@ Currently working as a Risk Analysis Specialist at Bank Of America
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, Javascript,CSS,Bootstrap**
-- Backend development using **Java**
-- Making for **Relational Database Management Systems**
+- Front-end development using **HTML, Javascript,CSS,ReactJS,Bootstrap**
+- Backend development using **Java, Python**
+- Querying for **Relational Database Management Systems**
 - Mobile application development using **Android and Java**
 - Creating scalable cloud architecture using **AWS Cloud**
 - Solving Data structure and algorithm questions in **Java and Python**
